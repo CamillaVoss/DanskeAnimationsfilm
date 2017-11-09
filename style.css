@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif; }
+
+#main ul {
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 1em; }
+  #main ul li {
+    margin: 3em;
+    border: 0.1em solid #000000;
+    border-radius: 1em;
+    padding: 2em;
+    box-sizing: border-box; }
